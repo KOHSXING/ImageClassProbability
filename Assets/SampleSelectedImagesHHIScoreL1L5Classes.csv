@@ -1,0 +1,5 @@
+idx,synset,Name,Img_Name,HHI_Score,Top3_sum,Top5_sum,child,L1.class,L2.class,L3.class,L4.class,L5.class
+0,n02782093,Balloon,n02782093_23.JPEG,9532.985062602593,97.862009114,97.897986833,Balloon,entity.n.01,physical_entity.n.01,object.n.01,whole.n.02,artifact.n.01
+1,n03544143,Hourglass,n03544143_97.JPEG,9893.220675532584,99.4755989187,99.4814353196,Hourglass,entity.n.01,physical_entity.n.01,object.n.01,whole.n.02,artifact.n.01
+2,n04118776,Rule,n04118776_1955.JPEG,9125.256841551138,95.74472971,95.821194144,Rule,entity.n.01,physical_entity.n.01,object.n.01,whole.n.02,artifact.n.01
+3,n07745940,Strawberry,n07745940_183.JPEG,9434.084492143744,97.37468216,97.47740829300001,Strawberry,entity.n.01,physical_entity.n.01,matter.n.03,solid.n.01,food.n.02
